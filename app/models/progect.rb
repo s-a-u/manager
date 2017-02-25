@@ -1,0 +1,2 @@
+class Progect < ApplicationRecord
+end
